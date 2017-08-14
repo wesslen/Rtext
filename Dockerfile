@@ -5,7 +5,6 @@ RUN install2.r --error \
     quanteda \
     wordclouds \
     stm \ 
-    topicmodels \
     lda \ 
     cleanNLP \
     tidytext \
